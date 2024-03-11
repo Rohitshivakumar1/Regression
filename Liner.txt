@@ -1,0 +1,20 @@
+Linear Regression is one of the most commonly used statistical modeling methods in data science. It’s also a topic that attracts many questions from our community of students.
+
+This free bonus download tackles two of the most frequently asked questions regarding Linear Regression, and walks you through, step-by-step, to help you solve them with confidence—code included!
+
+Question 1: How do I use my simple linear regression model to make a single prediction, for example, to predict the salary of an employee with 12 years of experience?
+
+Question 2: How do I get the final regression equation y = b0 + b1 x with the final values of the coefficients b0 and b1?
+
+Here’s the step-by-step coding exercise you receive in this Google Colab bonus:
+
+Importing libraries and datasets
+Splitting the dataset
+Training the simple Linear Regression model on the Training set
+Predicting and visualizing the test set results
+Visualizing the training set results 
+Making a single prediction 
+Getting the final linear regression equation (with values of the coefficients) 
+Get your Linear Regression Bonus Here
+
+Enjoy!
